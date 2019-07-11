@@ -1,0 +1,19 @@
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\Prueba EF.exe.config
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\Prueba EF.exe
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\Prueba EF.pdb
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\EntityFramework.dll
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\MySql.Data.dll
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\EntityFramework.xml
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\MySql.Data.xml
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba_EF.Form1.resources
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba_EF.Properties.Resources.resources
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba EF.csproj.GenerateResource.cache
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba EF.csproj.CoreCompileInputs.cache
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba EF.csproj.CopyComplete
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba EF.exe
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba EF.pdb
+C:\Users\LeaRC\source\repos\Prueba EF\Prueba EF\obj\Debug\Prueba_EF.Form2.resources
